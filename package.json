@@ -1,0 +1,43 @@
+{
+  "name": "mlc",
+  "version": "1.0.0",
+  "description": "Maggie Louise Confections Codeing Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALB24/MLC_App.git"
+  },
+  "keywords": [
+    "mlc"
+  ],
+  "author": "Alessandra Leuzzi-Botello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ALB24/MLC_App/issues"
+  },
+  "homepage": "https://github.com/ALB24/MLC_App#readme",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "jquery": "^3.3.1",
+    "nodemon": "^1.18.3",
+    "style-loader": "^0.22.1",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  }
+}
