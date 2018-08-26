@@ -1,7 +1,7 @@
 {
-  "name": "mlc",
+  "name": "reactjs_serverless_boilerplate",
   "version": "1.0.0",
-  "description": "Maggie Louise Confections Codeing Challenge",
+  "description": "ReactJS_Serverless_Boilerplate",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ALB24/MLC_App.git"
+    "url": "git+https://github.com/ALB24/ReactJS_Serverless_Boilerplate.git"
   },
   "keywords": [
-    "mlc"
+    "ReactJS_Serverless_Boilerplate"
   ],
   "author": "Alessandra Leuzzi-Botello",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ALB24/MLC_App/issues"
+    "url": "https://github.com/ALB24/ReactJS_Serverless_Boilerplate/issues"
   },
-  "homepage": "https://github.com/ALB24/MLC_App#readme",
+  "homepage": "https://github.com/ALB24/ReactJS_Serverless_Boilerplate#readme",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2"

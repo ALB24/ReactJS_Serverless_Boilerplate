@@ -1,0 +1,26 @@
+# IntelliJ
+*.iml
+/.idea
+
+## Config Files ##
+.env
+package-lock.json
+
+## Build Files ##
+client/dist/bundle.js
+client/dist/img
+client/dist/index.html
+
+## NPM ##
+node_modules
+
+## Mac OSX ##
+.DS_Store
+
+## Built images ##
+client/dist/img
+
+/node_modules
+bundle.js
+npm-debug.log
+.DS_Store
